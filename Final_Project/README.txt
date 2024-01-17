@@ -1,0 +1,1 @@
+my screensize is 4k and I tested in other screens and the window looks huge. there was no other way for me to work on the assignment taking that into consideration since I couldn't see anything with a smaller window size.
